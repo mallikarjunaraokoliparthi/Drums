@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-
+        //this is test
         MediaPlayer keyboard,drums,gitar,horn,piano,plats;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

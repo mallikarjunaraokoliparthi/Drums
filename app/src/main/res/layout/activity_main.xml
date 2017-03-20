@@ -12,6 +12,7 @@
     tools:context="com.indpgamesandapps.drums.MainActivity">
 
     <Button
+
         android:id="@+id/imageButton"
         android:layout_width="125dp"
         android:layout_height="141dp"
